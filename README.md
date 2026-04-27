@@ -1,5 +1,5 @@
 # BULDD
-.sh script for distributing LÖVE2D games for Windows, Linux and Web
+.sh script for distributing LÖVE2D games to Windows, Linux and Web
 
 ## Step 1: Install WSL
 
