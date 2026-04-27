@@ -69,5 +69,5 @@ And you will be required to input the name of your game twice
 
 <br>
 
-- All the build will be located in this folder
+- All the builds will be located in this folder
 <img width="977" height="303" alt="image" src="https://github.com/user-attachments/assets/04ba958c-2909-4ac8-a8ff-c4dbf078d6c0" />
